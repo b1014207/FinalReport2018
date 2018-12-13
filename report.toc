@@ -1,0 +1,61 @@
+\contentsline {chapter}{研究背景}{1}
+\contentsline {section}{\numberline {1.1}ブラックジャックの戦略の歴史}{1}
+\contentsline {section}{\numberline {1.2}ブラックジャックのルール}{1}
+\contentsline {subsection}{\numberline {1.2.1}ゲームの流れ}{2}
+\contentsline {subsection}{\numberline {1.2.2}ディーラーの行動}{2}
+\contentsline {section}{\numberline {1.3}ブラックジャックにおける従来の戦略}{3}
+\contentsline {subsection}{\numberline {1.3.1}従来の戦略}{3}
+\contentsline {subsection}{\numberline {1.3.2}ベーシックストラテジー}{3}
+\contentsline {subsection}{\numberline {1.3.3}ベーシックストラテジーの導出}{3}
+\contentsline {subsubsection}{}{5}
+\contentsline {subsubsection}{}{5}
+\contentsline {subsubsection}{}{6}
+\contentsline {chapter}{プロジェクトの目標}{8}
+\contentsline {chapter}{ベーシックストラテジーの検証}{9}
+\contentsline {section}{\numberline {1.4}戦略同士の比較}{9}
+\contentsline {subsection}{\numberline {1.4.1}ベーシックストラテジー改変1}{9}
+\contentsline {subsection}{\numberline {1.4.2}ベーシックストラテジー改変2}{9}
+\contentsline {subsection}{\numberline {1.4.3}プレイヤーの合計値が一定以上になるまでヒットする戦略}{10}
+\contentsline {subsection}{\numberline {1.4.4}複雑性の定義について}{12}
+\contentsline {subsection}{\numberline {1.4.5}各戦略の複雑性}{12}
+\contentsline {chapter}{シミュレーション}{14}
+\contentsline {section}{\numberline {1.5}概要}{14}
+\contentsline {section}{\numberline {1.6}シミュレーションの条件設定}{14}
+\contentsline {subsection}{\numberline {1.6.1}デック数について}{14}
+\contentsline {subsection}{\numberline {1.6.2}デック数の違いによる影響}{15}
+\contentsline {subsubsection}{デック数無限の場合}{15}
+\contentsline {subsubsection}{デック数1の場合}{15}
+\contentsline {section}{\numberline {1.7}仮説}{16}
+\contentsline {section}{\numberline {1.8}検証手順}{16}
+\contentsline {section}{\numberline {1.9}ブラックジャックシミュレータ}{16}
+\contentsline {subsubsection}{基本設計}{17}
+\contentsline {subsubsection}{トランプのカードを表現するクラス}{17}
+\contentsline {subsubsection}{デックを表現するクラス}{17}
+\contentsline {subsubsection}{ゲーム参加者を表すスーパークラス}{17}
+\contentsline {subsubsection}{プレイヤークラス}{17}
+\contentsline {subsubsection}{ディーラークラス}{18}
+\contentsline {subsubsection}{ゲームマネージャークラス}{18}
+\contentsline {subsubsection}{メイン関数}{18}
+\contentsline {subsubsection}{未実装の機能について}{18}
+\contentsline {section}{\numberline {1.10}シミュレータの擬似乱数の検証}{19}
+\contentsline {subsection}{\numberline {1.10.1}周期}{19}
+\contentsline {subsection}{\numberline {1.10.2}等確率性の検定}{19}
+\contentsline {chapter}{検証結果}{20}
+\contentsline {section}{\numberline {1.11}シミュレーション結果}{20}
+\contentsline {section}{\numberline {1.12}検定}{21}
+\contentsline {subsection}{\numberline {1.12.1}カイ2乗検定による独立性の検定}{21}
+\contentsline {subsubsection}{戦略間の勝率}{21}
+\contentsline {subsubsection}{デック数による勝率}{23}
+\contentsline {subsection}{\numberline {1.12.2}残差分析}{24}
+\contentsline {subsection}{\numberline {1.12.3}多重比較}{25}
+\contentsline {section}{\numberline {1.13}複雑性を考慮した性能比較とその結果}{28}
+\contentsline {subsection}{\numberline {1.13.1}各戦略の性能評価}{28}
+\contentsline {section}{\numberline {1.14}検証結果のまとめ}{29}
+\contentsline {chapter}{前期活動}{30}
+\contentsline {chapter}{後期目標}{31}
+\contentsline {chapter}{中間発表の評価}{32}
+\contentsline {section}{\numberline {1.15}中間発表}{32}
+\contentsline {subsection}{\numberline {1.15.1}評価点数の集計}{32}
+\contentsline {subsection}{\numberline {1.15.2}コメント解析と改善点}{33}
+\contentsline {chapter}{参考文献}{35}
+\contentsline {chapter}{付録}{36}
